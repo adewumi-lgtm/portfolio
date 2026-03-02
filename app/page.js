@@ -16,32 +16,32 @@ const NAV = [
 const PORTFOLIO = [
   {
     title: "Web Development (Ecommerce Website System)",
-    cover: "/images/website-development-portfolio-cover-image.jpg",
+    cover: "/Images/website.jpg",
     url: "https://melon-python-39e.notion.site/Ecommerce-Website-System-308397bb562280c88717da92946df016",
   },
   {
     title: "Video & Motion Projects",
-    cover: "/images/brand-video-portfolio-cover-imag.jpg",
+    cover: "/Images/brand-video-portfolio-cover-imag.jpg",
     url: "https://melon-python-39e.notion.site/Branded-Promotional-Assets-308397bb562280fab499ea83dc2b39c0?pvs=73",
   },
   {
     title: "Email Marketing & Automation Building",
-    cover: "/images/email-automation-ortfolio-cover-image.png",
+    cover: "/Images/email-automation-ortfolio-cover-image.png",
     url: "https://melon-python-39e.notion.site/EMAIL-AUTOMATION-308397bb562280afa5c6c730b2d00cac?pvs=73",
   },
   {
     title: "High-Converting Amazon Product Visuals",
-    cover: "/images/amazon-cover-image.jpg",
+    cover: "/Images/amazon-cover-image.jpg",
     url: "https://melon-python-39e.notion.site/Full-Amazon-Listing-Sets-30b397bb562280d79eb4f90f5dea24f6?pvs=73",
   },
   {
     title: "E-commerce Compliance & Recovery",
-    cover: "/images/E-commerce-Compliance&Recovery-cover-image.jpg",
+    cover: "/Images/e-commerce.jpg",
     url: "https://melon-python-39e.notion.site/E-commerce-Compliance-Recovery-30c397bb5622802f8aeffdef46b53d08?pvs=73",
   },
   {
     title: "Image Editing & Compositing",
-    cover: "/images/Image-Editing-Compositing-cover-image.webp",
+    cover: "/Images/image-editing.webp",
     url: "https://melon-python-39e.notion.site/Image-Editing-Compositing-30c397bb562280b9be36f9e9de04008e?pvs=73",
   },
 ];
@@ -90,12 +90,12 @@ const CONTACT = {
 };
 
 const TOOLS = [
-{ name: "Figma", src: "/images/figma.svg" },
+{ name: "figma", src: "/Images/figma.svg" },
   { name: "wordpress", src: "/Images/wordpress.svg" },
   { name: "wix", src: "/Images/wix.svg" },
   { name: "wikipedia", src: "/Images/wikipedia.svg" },
   { name: "stripe", src: "/Images/stripe.svg" },
-  { name: "Notion", src: "/images/notion.svg" },
+  { name: "notion", src: "/Images/notion.svg" },
   { name: "pinterest", src: "/Images/pinterest.svg" },
   { name: "mailchimp", src: "/Images/mailchimp.svg" },
   { name: "javascript", src: "/Images/javascript.svg" },
@@ -127,7 +127,7 @@ const TESTIMONIALS = [
     name: "Crystal Crystiaa",
     role: "Crystal Crystina",
     quote: "Working with Adewumi was one of the best decisions I made for my brand. She helped me build a complete email automation system that significantly improved our conversion rate within just two months. She also supported with SEO and product optimization, which boosted our visibility and overall performance. I’m truly grateful for her dedication and strategic approach.",
-    avatar: "/Images/Crytsal-image.png",
+    avatar: "/Images/crytsal-image.png",
   },
   {
     name: "Deron Blaides",
@@ -139,7 +139,7 @@ const TESTIMONIALS = [
     name: "Hala Maatouk",
     role: "Halte Bijoux",
     quote: "Adewumi built my website from scratch and transformed it into a clean, high-converting platform in just two months. She understood the brand vision and executed it beautifully. Our collaboration is still ongoing, and I genuinely appreciate her professionalism, consistency, and attention to detail.",
-    avatar: "/Images/Hala's-image.png",
+    avatar: "/Images/hala's-image.png",
   },
 ];
 
@@ -347,7 +347,7 @@ useEffect(() => {
               <div className="h-52 w-52 overflow-hidden rounded-full border border-zinc-200 bg-zinc-100 md:h-64 md:w-64">
                 {/* We'll replace this with your hero face image later */}
                 <img
-  src="/images/hero-image-name.jpg"
+  src="/Images/hero-image.png"
   alt="Adewumi portrait"
   className="h-full w-full object-cover"
 />
@@ -658,10 +658,10 @@ My work is structured, intentional, and performance-focused. I don’t just crea
           <div className="mt-10 overflow-hidden rounded-[36px] border border-zinc-200 bg-white shadow-lg">
             <div className="relative grid gap-0 md:grid-cols-2">
   <div className="pointer-events-none absolute inset-y-0 left-1/2 hidden w-px -translate-x-1/2 bg-zinc-200 md:block" />
-              {/* Left: Graduation image */}
+              {/* Left: graduation image */}
               <div className="bg-zinc-100">
                 <img
-  src="/images/graduation-image.png"
+  src="/Images/graduation-image.png"
   alt="Adewumi graduation portrait"
   className="h-full w-full object-cover"
 />
