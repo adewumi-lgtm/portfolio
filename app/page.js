@@ -99,7 +99,7 @@ const TOOLS = [
   { name: "pinterest", src: "/images/pinterest.svg" },
   { name: "mailchimp", src: "/images/mailchimp.svg" },
   { name: "javascript", src: "/images/javascript.svg" },
-  { name: "Shopify", src: "/images/shopify.svg" },
+  { name: "Shopify", src: "/shopify.svg" },
   { name: "ilovepdf", src: "/images/ilovepdf.svg" },
   { name: "html5", src: "/images/html5.svg" },
   { name: "grammarly", src: "/images/grammarly.svg" },
