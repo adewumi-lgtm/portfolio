@@ -127,7 +127,7 @@ const TESTIMONIALS = [
     name: "Crystal Crystiaa",
     role: "Crystal Crystina",
     quote: "Working with Adewumi was one of the best decisions I made for my brand. She helped me build a complete email automation system that significantly improved our conversion rate within just two months. She also supported with SEO and product optimization, which boosted our visibility and overall performance. I’m truly grateful for her dedication and strategic approach.",
-    avatar: "/Images/crytsal-image.png",
+    avatar: "/Images/Crytsal-image.png",
   },
   {
     name: "Deron Blaides",
@@ -139,7 +139,7 @@ const TESTIMONIALS = [
     name: "Hala Maatouk",
     role: "Halte Bijoux",
     quote: "Adewumi built my website from scratch and transformed it into a clean, high-converting platform in just two months. She understood the brand vision and executed it beautifully. Our collaboration is still ongoing, and I genuinely appreciate her professionalism, consistency, and attention to detail.",
-    avatar: "/Images/hala's-image.png",
+    avatar: "/Images/Hala's-image.png",
   },
 ];
 
