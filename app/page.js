@@ -99,7 +99,7 @@ const TOOLS = [
   { name: "pinterest", src: "/images/pinterest.svg" },
   { name: "mailchimp", src: "/images/mailchimp.svg" },
   { name: "javascript", src: "/images/javascript.svg" },
-  { name: "Shopify", src: "/images//shopify.svg" },
+  { name: "Shopify", src: "/images/shopify.svg" },
   { name: "ilovepdf", src: "/images/ilovepdf.svg" },
   { name: "html5", src: "/images/html5.svg" },
   { name: "grammarly", src: "/images/grammarly.svg" },
@@ -347,7 +347,7 @@ useEffect(() => {
               <div className="h-52 w-52 overflow-hidden rounded-full border border-zinc-200 bg-zinc-100 md:h-64 md:w-64">
                 {/* We'll replace this with your hero face image later */}
                 <img
-  src="/Images/hero-image.png"
+  src="/images/hero-image.png"
   alt="Adewumi portrait"
   className="h-full w-full object-cover"
 />
