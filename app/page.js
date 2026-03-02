@@ -16,32 +16,32 @@ const NAV = [
 const PORTFOLIO = [
   {
     title: "Web Development (Ecommerce Website System)",
-    cover: "/Images/website.jpg",
+    cover: "/images/website.jpg",
     url: "https://melon-python-39e.notion.site/Ecommerce-Website-System-308397bb562280c88717da92946df016",
   },
   {
     title: "Video & Motion Projects",
-    cover: "/Images/brand-video-portfolio-cover-imag.jpg",
+    cover: "/images/brand-video-portfolio-cover-imag.jpg",
     url: "https://melon-python-39e.notion.site/Branded-Promotional-Assets-308397bb562280fab499ea83dc2b39c0?pvs=73",
   },
   {
     title: "Email Marketing & Automation Building",
-    cover: "/Images/email-automation-ortfolio-cover-image.png",
+    cover: "/images/email-automation-ortfolio-cover-image.png",
     url: "https://melon-python-39e.notion.site/EMAIL-AUTOMATION-308397bb562280afa5c6c730b2d00cac?pvs=73",
   },
   {
     title: "High-Converting Amazon Product Visuals",
-    cover: "/Images/amazon-cover-image.jpg",
+    cover: "/images/amazon-cover-image.jpg",
     url: "https://melon-python-39e.notion.site/Full-Amazon-Listing-Sets-30b397bb562280d79eb4f90f5dea24f6?pvs=73",
   },
   {
     title: "E-commerce Compliance & Recovery",
-    cover: "/Images/e-commerce.jpg",
+    cover: "/images/e-commerce.jpg",
     url: "https://melon-python-39e.notion.site/E-commerce-Compliance-Recovery-30c397bb5622802f8aeffdef46b53d08?pvs=73",
   },
   {
     title: "Image Editing & Compositing",
-    cover: "/Images/image-editing.webp",
+    cover: "/images/image-editing.webp",
     url: "https://melon-python-39e.notion.site/Image-Editing-Compositing-30c397bb562280b9be36f9e9de04008e?pvs=73",
   },
 ];
@@ -90,36 +90,36 @@ const CONTACT = {
 };
 
 const TOOLS = [
-{ name: "figma", src: "/Images/figma.svg" },
-  { name: "wordpress", src: "/Images/wordpress.svg" },
-  { name: "wix", src: "/Images/wix.svg" },
-  { name: "wikipedia", src: "/Images/wikipedia.svg" },
-  { name: "stripe", src: "/Images/stripe.svg" },
-  { name: "notion", src: "/Images/notion.svg" },
-  { name: "pinterest", src: "/Images/pinterest.svg" },
-  { name: "mailchimp", src: "/Images/mailchimp.svg" },
-  { name: "javascript", src: "/Images/javascript.svg" },
-  { name: "Shopify", src: "/shopify.svg" },
-  { name: "ilovepdf", src: "/Images/ilovepdf.svg" },
-  { name: "html5", src: "/Images/html5.svg" },
-  { name: "grammarly", src: "/Images/grammarly.svg" },
-  { name: "googletranslate", src: "/Images/googletranslate.svg" },
-  { name: "googletasks", src: "/Images/googletasks.svg" },
-  { name: "googletagmanager", src: "/Images/googletagmanager.svg" },
-  { name: "googleslides", src: "Images/googleslides.svg" },
-  { name: "googlesheets", src: "/Images/googlesheets.svg" },
-  { name: "googlesearchconsole", src: "/Images/googlesearchconsole.svg" },
-  { name: "googlemeet", src: "/Images/googlemeet.svg" },
-  { name: "googlemarketingplatform", src: "/Images/googlemarketingplatform.svg" },
-  { name: "googledocs", src: "/Images/googledocs.svg" },
-  { name: "googleanalytics", src: "/Images/googleanalytics.svg" },
-  { name: "google", src: "/Images/google.svg" },
-  { name: "gmail", src: "/Images/gmail.svg" },
-  { name: "github", src: "/Images/github.svg" },
-  { name: "evernote", src: "/Images/evernote.svg" },
-  { name: "css", src: "/Images/css.svg" },
-  { name: "googledrive", src: "/Images/googledrive.svg" },
-  { name: "googledrive", src: "/Images/googledrive.svg" },
+{ name: "figma", src: "/images/figma.svg" },
+  { name: "wordpress", src: "/images/wordpress.svg" },
+  { name: "wix", src: "/images/wix.svg" },
+  { name: "wikipedia", src: "/images/wikipedia.svg" },
+  { name: "stripe", src: "/images/stripe.svg" },
+  { name: "notion", src: "/images/notion.svg" },
+  { name: "pinterest", src: "/images/pinterest.svg" },
+  { name: "mailchimp", src: "/images/mailchimp.svg" },
+  { name: "javascript", src: "/images/javascript.svg" },
+  { name: "Shopify", src: "/images//shopify.svg" },
+  { name: "ilovepdf", src: "/images/ilovepdf.svg" },
+  { name: "html5", src: "/images/html5.svg" },
+  { name: "grammarly", src: "/images/grammarly.svg" },
+  { name: "googletranslate", src: "/images/googletranslate.svg" },
+  { name: "googletasks", src: "/images/googletasks.svg" },
+  { name: "googletagmanager", src: "/images/googletagmanager.svg" },
+  { name: "googleslides", src: "images/googleslides.svg" },
+  { name: "googlesheets", src: "/images/googlesheets.svg" },
+  { name: "googlesearchconsole", src: "/images/googlesearchconsole.svg" },
+  { name: "googlemeet", src: "/images/googlemeet.svg" },
+  { name: "googlemarketingplatform", src: "/images/googlemarketingplatform.svg" },
+  { name: "googledocs", src: "/images/googledocs.svg" },
+  { name: "googleanalytics", src: "/images/googleanalytics.svg" },
+  { name: "google", src: "/images/google.svg" },
+  { name: "gmail", src: "/images/gmail.svg" },
+  { name: "github", src: "/images/github.svg" },
+  { name: "evernote", src: "/images/evernote.svg" },
+  { name: "css", src: "/images/css.svg" },
+  { name: "googledrive", src: "/images/googledrive.svg" },
+  { name: "googledrive", src: "/images/googledrive.svg" },
 ];
 
 const TESTIMONIALS = [
@@ -127,19 +127,19 @@ const TESTIMONIALS = [
     name: "Crystal Crystiaa",
     role: "Crystal Crystina",
     quote: "Working with Adewumi was one of the best decisions I made for my brand. She helped me build a complete email automation system that significantly improved our conversion rate within just two months. She also supported with SEO and product optimization, which boosted our visibility and overall performance. I’m truly grateful for her dedication and strategic approach.",
-    avatar: "/Images/Crytsal-image.png",
+    avatar: "/images/Crytsal-image.png",
   },
   {
     name: "Deron Blaides",
     role: "Blaides Clothing Store",
     quote: "We’ve been working together for over a year, and the experience has been amazing. Adewumi has built two conversion-focused e-commerce websites for my brand, and we continue to maintain a strong working relationship. Her creativity, reliability, and results-driven mindset truly stand out.",
-    avatar: "/Images/deron-blaides.jpg",
+    avatar: "/images/deron-blaides.jpg",
   },
   {
     name: "Hala Maatouk",
     role: "Halte Bijoux",
     quote: "Adewumi built my website from scratch and transformed it into a clean, high-converting platform in just two months. She understood the brand vision and executed it beautifully. Our collaboration is still ongoing, and I genuinely appreciate her professionalism, consistency, and attention to detail.",
-    avatar: "/Images/Hala's-image.png",
+    avatar: "/images/Hala's-image.png",
   },
 ];
 
@@ -661,7 +661,7 @@ My work is structured, intentional, and performance-focused. I don’t just crea
               {/* Left: graduation image */}
               <div className="bg-zinc-100">
                 <img
-  src="/Images/graduation-image.png"
+  src="/images/graduation-image.png"
   alt="Adewumi graduation portrait"
   className="h-full w-full object-cover"
 />
